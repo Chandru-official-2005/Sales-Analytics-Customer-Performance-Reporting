@@ -239,18 +239,12 @@ sales-analytics-excel-project/
 │   └── Sales_Analytics.xlsx
 │
 ├── Reports/
-│   ├── Customer_Performance_Report.pdf
-│   ├── Division_Performance_Report.pdf
-│   ├── Market_Performance_Report.pdf
-│   ├── India_Market_Report.pdf
-│   └── Top_Products_Report.pdf
-│
-└── Images/
-    ├── Data_Model.png
-    ├── Customer_Performance.png
-    ├── Market_Performance.png
-    ├── Division_Report.png
-    └── Top_Products.png
+    ├── Customer_Performance_Report.pdf
+    ├── Division_Performance_Report.pdf
+    ├── Market_Performance_Report.pdf
+    ├── India_Market_Report.pdf
+    └── Top_Products_Report.pdf
+
 ```
 
 ## Conclusion
