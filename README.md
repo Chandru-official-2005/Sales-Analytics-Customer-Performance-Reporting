@@ -1,5 +1,3 @@
-For GitHub, the README should be concise, professional, recruiter-friendly, and focused on business impact. It should not read like a college report.
-
 # sales-analytics-customer-performance-excel  
 
 ## Overview
