@@ -251,5 +251,3 @@ sales-analytics-excel-project/
 
 This project demonstrates the complete lifecycle of a Business Intelligence solution—from data extraction and transformation to dimensional modeling, performance analysis, and business reporting. By leveraging Excel's advanced analytics capabilities, the solution provides meaningful insights that support strategic decision-making and organizational growth.
 
-A small improvement: rename the repository to **sales-analytics-customer-performance-excel** or **excel-sales-analytics-bi-project**. Those names look much stronger to recruiters than "Sales Analytics Practice".
-
